@@ -89,7 +89,7 @@ For quick ADHOC exploration into the projects of each regions. With an addition 
 
 
 ![Detail View](https://github.com/GH-AkshyM/Revenue-Health-Dashboard/blob/main/Screenshots/Detail%20View.gif)
-## ⭐ Most Important Feature
+## ⭐ Important Feature 1
 *Side Note: Most portfolios take a simple one-page Excel or CSV dataset and create a few visuals and call it a day. But real end-to-end Power BI development goes far beyond building dashboards. It involves data modelling, security, access control, refresh strategy, governance, and understanding how the report will be shared and consumed.*
 
 *Designing a reliable analytics solution isn’t just about visuals—it requires the skills, training and discipline to handle the full BI lifecycle. Only a properly trained Power BI professional can deliver a secure, scalable, and business-ready reporting system.*
@@ -101,6 +101,22 @@ Multiple roles — each seeing only what they should.
 No duplicated reports, no redundancy, no confusion.
 
 ![Row Level Security](https://github.com/GH-AkshyM/Revenue-Health-Dashboard/blob/main/Screenshots/Row%20Level%20Security.gif)
+## ⭐ Important Feature 2
+### Mobile Optimized view
+Most Operations and Leadership teams aren’t sitting at their desks all day — they’re meeting clients, handling escalations, and managing teams on the move. A mobile-optimized Power BI view gives them instant access to revenue insights right at their fingertips, without needing to open a laptop or navigate heavy dashboards.
+
+<img src="https://github.com/GH-AkshyM/Revenue-Health-Dashboard/blob/main/Screenshots/Mobile%20Optimized%20View.gif" width="300"/>
+
 ## 🚀Future scope of the Dashboard
 
+This pilot version is just the starting point, and there’s a lot of room for the dashboard to grow. In future releases:
+
+- **Add Employee-Level Details:**
+Bringing in employee data will help the company see who is allocated to which project, how workload is distributed, and how much revenue each person is contributing. This makes planning and resource allocation far more accurate.
+
+- **Integrate CFO/Expense Data**
+Connecting revenue with operational expenses will allow Leadership to finally see profitability, not just revenue. This means instantly spotting projects that are performing well vs. ones that are losing money.
+
+- **Extend Role-Based Views**
+Additional RLS-driven pages can be created for Finance, Delivery, HR, or Sales, giving each team a version of the dashboard that fits their needs.
 
