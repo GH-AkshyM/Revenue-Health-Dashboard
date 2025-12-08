@@ -50,6 +50,9 @@ A small team within the Business Solutions division is currently responsible for
 - reconciling numbers across countries and business units
 
 Because the reporting is built on manual processes and individual knowledge, Deltagrab’s leadership lacks reliable, timely visibility into overall performance — making strategic decisions slower and riskier.
+
+[(Back to top)](#table-of-contents)
+
 ## 🧰Technical Requirements
 Deltagrab plans to move all revenue data from scattered Excel files into a centralized internal system that will serve as the single source of truth. Power BI will later connect to this system to create one unified executive report for the CEO and Head of Operations. Regional heads must only see their own region’s data, while the CEO should have access to everything, requiring proper Row-Level Security (RLS). As a pilot, the company will first validate all calculations and KPIs using the existing Excel data before transitioning to the internal platform.
 
@@ -60,6 +63,8 @@ Key Points:
 - RLS: regional heads limited, CEO full access
 - Pilot testing using current Excel sheets
   
+[(Back to top)](#table-of-contents)
+
 ## ✨Highlight Features
 
 ### 1. Guage Chart:
@@ -93,6 +98,9 @@ For quick ADHOC exploration into the projects of each regions. With an addition 
 
 
 ![Detail View](https://github.com/GH-AkshyM/Revenue-Health-Dashboard/blob/main/Screenshots/Detail%20View.gif)
+
+[(Back to top)](#table-of-contents)
+
 ## ⭐ Important Feature 1:
 *Side Note: Most portfolios take a simple one-page Excel or CSV dataset and create a few visuals and call it a day. But real end-to-end Power BI development goes far beyond building dashboards. It involves data modelling, security, access control, refresh strategy, governance, and understanding how the report will be shared and consumed.*
 
@@ -112,6 +120,8 @@ Most Operations and Leadership teams aren’t sitting at their desks all day —
 
 <img src="https://github.com/GH-AkshyM/Revenue-Health-Dashboard/blob/main/Screenshots/Mobile%20Optimized%20View.gif" width="300"/>
 
+[(Back to top)](#table-of-contents)
+
 ## 🚀Future scope of the Dashboard
 
 This pilot version is just the starting point, and there’s a lot of room for the dashboard to grow. In future releases:
@@ -125,3 +135,4 @@ Connecting revenue with operational expenses will allow Leadership to finally se
 - **Extend Role-Based Views**
 Additional RLS-driven pages can be created for Finance, Delivery, HR, or Sales, giving each team a version of the dashboard that fits their needs.
 
+[(Back to top)](#table-of-contents)
