@@ -17,6 +17,6 @@ I started learning this tool, I made up my mind that this would be my first proj
 |1.   |  [Dashboard Video Demo](#dashboard-video-demo)                              |
 
 
-# Dashboard Video Demo
+## Dashboard Video Demo
 
 *<h4>Disclaimer: The dataset used in this project generated synthetically to mimic an IT solutions company. Which have several on going projects, Upcoming projects in the pipeline. Revenue recognition accross different months according to variying SOW's. Please give credit if you're going to reuse the dataset. Thanks in advance! I Appreciate you stopping by here!!</h4>*
