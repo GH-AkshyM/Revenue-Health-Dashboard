@@ -4,7 +4,7 @@ This project was inspired from my previous role as an Associate consultant. Duri
 It used to take us weeks to prepare the excel files, cross checking with other department heads about missing data, formatting, cross checking etc. The whole process was entirely manual. Ofcourse at that time, I was not aware about Powerbi. When
 I started learning this tool, I made up my mind that this would be my first project!
 
-*<h4>Disclaimer: The dataset used in this project generated synthetically to mimic an IT solutions company. Which have several on going projects, Upcoming projects in the pipeline. Revenue recognition accross different months according to variying SOW's. Please give credit if you're going to reuse the dataset. Thanks in advance! I Appreciate you stopping by here!!</h4>*
+*<h4>Disclaimer: The dataset used in this project is generated synthetically to mimic an IT solutions company. Which have several on going projects, Upcoming projects in the pipeline. Revenue recognition accross different months according to variying SOW's. Please give credit if you're going to reuse the dataset. Thanks in advance! I Appreciate you stopping by here!!</h4>*
 
 ## 📚Table of Contents:
 
@@ -37,6 +37,9 @@ This has resulted in:
 - inability to take quick, data-driven decisions
 
 To ensure business continuity and long-term stability, Deltagrab urgently needs a centralized, automated revenue analytics solution that provides complete visibility of the company’s financial performance — regardless of personnel changes.
+
+[(Back to top)](#table-of-contents)
+
 ## 🏢Existing Environment
 Deltagrab’s revenue reporting environment is entirely manual and heavily dependent on scattered data practices. Revenue information from different countries, service lines, and products is collected through spreadsheets, emails, and ad-hoc exports from internal systems. There is no centralized platform to unify or validate these numbers.
 A small team within the Business Solutions division is currently responsible for compiling monthly revenue reports. Due to the lack of automation, they spend significant time:
