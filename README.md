@@ -89,6 +89,16 @@ For quick ADHOC exploration into the projects of each regions. With an addition 
 
 
 ![Detail View](https://github.com/GH-AkshyM/Revenue-Health-Dashboard/blob/main/Screenshots/Detail%20View.gif)
+## ⭐ Most Important Feature
+*Side Note: Most portfolios take a simple one-page Excel or CSV dataset and create a few visuals and call it a day. But real end-to-end Power BI development goes far beyond building dashboards. It involves data modelling, security, access control, refresh strategy, governance, and understanding how the report will be shared and consumed.*
+
+*Designing a reliable analytics solution isn’t just about visuals—it requires the skills, training and discipline to handle the full BI lifecycle. Only a properly trained Power BI professional can deliver a secure, scalable, and business-ready reporting system.*
+
+### Row Level Security
+
+One single source of truth! No need for Multiple reports curated individually. Reducing redundancy!
+
+![Row Level Security](https://github.com/GH-AkshyM/Revenue-Health-Dashboard/blob/main/Screenshots/Row%20Level%20Security.gif)
 ## 🚀Future scope of the Dashboard
 
 
