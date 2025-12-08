@@ -7,7 +7,7 @@ I started learning this tool, I made up my mind that this would be my first proj
 *<h4>Disclaimer: The dataset used in this project generated synthetically to mimic an IT solutions company. Which have several on going projects, Upcoming projects in the pipeline. Revenue recognition accross different months according to variying SOW's. Please give credit if you're going to reuse the dataset. Thanks in advance! I Appreciate you stopping by here!!</h4>*
 
 ## 📚Table of Contents:
-[Dashboard Video Demo](#dashboard-video-demo)
+
 |**No.**  |**Section**|
 |:-: | :------------ | 
 |1.   |  [Business Problem](#business-problem)                              |
@@ -15,6 +15,7 @@ I started learning this tool, I made up my mind that this would be my first proj
 |3.   |  [Technical Requirements](#technical-requirements)                              |
 |4.   |  [Highlight Features](#highlight-features)                              |
 |5.   |  [Future scope of the Dashboard](#future-scope-of-the-dashboard)                              |
+
 ## 📌Business Problem
 Deltagrab is a fast-growing IT solutions company with operations across multiple countries and a workforce exceeding 400 employees. Its service portfolio ranges from HR & payroll automation to SaaS-based products and enterprise-grade cloud hosting solutions.
 Despite the company’s expanding footprint, all revenue tracking, consolidation, and reporting were handled manually by one of the founding members. This included:
@@ -58,51 +59,52 @@ Key Points:
   
 ## ✨Highlight Features
 
-### 1. Guage Chart
+### 1. Guage Chart:
 Shows how much of the FY revenue target has been achieved vs. the goal set by the Leadership.
-### 2. Projections Summary Cards
+### 2. Projections Summary Cards:
 Displays revenue expected This Year, Next 3 Months, and Current Month.
-### 3. Monthly Revenue Trend (Recognized vs Projected)
+### 3. Monthly Revenue Trend (Recognized vs Projected):
 A Dynamic bar chart showing month-wise revenue for the current financial year, including both recognized and projected, which changes relative to the current month!
 
 ![Overview](https://github.com/GH-AkshyM/Revenue-Health-Dashboard/blob/main/Screenshots/Dashboard%20Overview%20-%20Gif.gif)
 
-### 1. Dynamic Column Chart
+### 1. Dynamic Column Chart:
 A Dynamic column chart showing the revenue split across each chapters. Selecting a country slicer quickly shows the respective revenue breakdown!
 
-### 2. A pie chart
+### 2. A pie chart:
 A pie chart showing the contribution of Revenue from each commercial models.
 
-### 3. A dedicated Forecast button
+### 3. A dedicated Forecast button:
 By clicking this button the end user can easily switch to the forecasting view where a complete breakdown of Revenue between each projects with respect to Prev, Current, Next and Month after Next! The leadership can quickly identify the Drop or increase in revenue and prepare proactively! One key use case is when the Leadership can have an AHM with the project managers and Get their input as to why there is drop in revenue. 
 
-- From the input of PM's the leadership can identify the root cause of the drop/increase in revenue. It might be due to An employee being de allocated or According the SOW there is no revenue being recognized for the particular month or If the project hasnt been renews etc...
+- From the input of PM's the leadership can identify the root cause of the drop/increase in revenue. It might be due to An employee being de allocated or According the SOW there is no revenue being recognized for the particular month or If the project hasnt been renewed etc...
 
 ![Forecast View](https://github.com/GH-AkshyM/Revenue-Health-Dashboard/blob/main/Screenshots/Forecast%20View.gif)
 
-### 1. Matrix View
+### 1. Matrix View:
 A matrix table visual showing the top 10 biggest clients as per revenue.
-### 2. Classic Bar chart
+### 2. Classic Bar chart:
 For visualizing the revenue between all the financial years. Key Highlight, Dynamic titles (using parameters).
-### 3. Decomposition Tree
+### 3. Decomposition Tree:
 For quick ADHOC exploration into the projects of each regions. With an addition drill through button which quickly takes the user into a dedicated page to get a comprehensive view about all the project details.
 
 
 ![Detail View](https://github.com/GH-AkshyM/Revenue-Health-Dashboard/blob/main/Screenshots/Detail%20View.gif)
-## ⭐ Important Feature 1
+## ⭐ Important Feature 1:
 *Side Note: Most portfolios take a simple one-page Excel or CSV dataset and create a few visuals and call it a day. But real end-to-end Power BI development goes far beyond building dashboards. It involves data modelling, security, access control, refresh strategy, governance, and understanding how the report will be shared and consumed.*
 
 *Designing a reliable analytics solution isn’t just about visuals—it requires the skills, training and discipline to handle the full BI lifecycle. Only a properly trained Power BI professional can deliver a secure, scalable, and business-ready reporting system.*
 
-### Row Level Security
+### Row Level Security:
 
 One report. One source of truth.
 Multiple roles — each seeing only what they should.
 No duplicated reports, no redundancy, no confusion.
 
 ![Row Level Security](https://github.com/GH-AkshyM/Revenue-Health-Dashboard/blob/main/Screenshots/Row%20Level%20Security.gif)
-## ⭐ Important Feature 2
-### Mobile Optimized view
+## ⭐ Important Feature 2:
+
+### Mobile Optimized view:
 Most Operations and Leadership teams aren’t sitting at their desks all day — they’re meeting clients, handling escalations, and managing teams on the move. A mobile-optimized Power BI view gives them instant access to revenue insights right at their fingertips, without needing to open a laptop or navigate heavy dashboards.
 
 <img src="https://github.com/GH-AkshyM/Revenue-Health-Dashboard/blob/main/Screenshots/Mobile%20Optimized%20View.gif" width="300"/>
