@@ -55,17 +55,40 @@ Key Points:
 - One consolidated leadership report
 - RLS: regional heads limited, CEO full access
 - Pilot testing using current Excel sheets
+  
 ## ✨Highlight Features
 
 ### 1. Guage Chart
-Shows how much of the FY revenue target has been achieved vs. goal.
+Shows how much of the FY revenue target has been achieved vs. the goal set by the Leadership.
 ### 2. Projections Summary Cards
 Displays revenue expected This Year, Next 3 Months, and Current Month.
 ### 3. Monthly Revenue Trend (Recognized vs Projected)
 A Dynamic bar chart showing month-wise revenue for the current financial year, including both recognized and projected, which changes relative to the current month!
 
-![Guage Chart](https://github.com/GH-AkshyM/Revenue-Health-Dashboard/blob/main/Screenshots/Dashboard%20Overview%20-%20Gif.gif)
+![Overview](https://github.com/GH-AkshyM/Revenue-Health-Dashboard/blob/main/Screenshots/Dashboard%20Overview%20-%20Gif.gif)
 
+### 1. Dynamic Column Chart
+A Dynamic column chart showing the revenue split between each chapters. Selecting a country slicer quickly shows the respective revenue breakdown!
+
+### 2. A pie chart
+A pie chart showing the contribution of Revenue from each commercial models.
+
+### 3. A dedicated Forecast button
+By clicking this button the end user can easily switch to the forecasting view where a complete breakdown of Revenue between each projects with respect to Prev, Current, Next and Month after Next! The leadership can quickly identify the Drop or increase in revenue and prepare proactively! One key use case is when the Leadership can have an AHM with the project managers and Get their input as to why there is drop in revenue. 
+
+- From the input of PM's the leadership can identify the root cause of the drop/increase in revenue. It might be due to An employee being de allocated or According the SOW there is no revenue being recognized for the particular month or If the project hasnt been renews etc...
+
+![Forecast View](https://github.com/GH-AkshyM/Revenue-Health-Dashboard/blob/main/Screenshots/Forecast%20View.gif)
+
+### 1. Matrix View
+A matrix table visual showing the top 10 biggest clients as per revenue.
+### 2. Classic Bar chart
+For visualizing the revenue between all the financial years. Key Highlight, Dynamic titles (using parameters).
+### 3. Decomposition Tree
+For quick ADHOC exploration into the projects of each regions. With an addition drill through button which quickly takes the user into a dedicated page to get a comprehensive view about all the project details.
+
+
+![Detail View](https://github.com/GH-AkshyM/Revenue-Health-Dashboard/blob/main/Screenshots/Detail%20View.gif)
 ## 🚀Future scope of the Dashboard
 
 
