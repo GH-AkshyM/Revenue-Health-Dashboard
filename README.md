@@ -68,7 +68,7 @@ A Dynamic bar chart showing month-wise revenue for the current financial year, i
 ![Overview](https://github.com/GH-AkshyM/Revenue-Health-Dashboard/blob/main/Screenshots/Dashboard%20Overview%20-%20Gif.gif)
 
 ### 1. Dynamic Column Chart
-A Dynamic column chart showing the revenue split between each chapters. Selecting a country slicer quickly shows the respective revenue breakdown!
+A Dynamic column chart showing the revenue split across each chapters. Selecting a country slicer quickly shows the respective revenue breakdown!
 
 ### 2. A pie chart
 A pie chart showing the contribution of Revenue from each commercial models.
@@ -96,7 +96,9 @@ For quick ADHOC exploration into the projects of each regions. With an addition 
 
 ### Row Level Security
 
-One single source of truth! No need for Multiple reports curated individually. Reducing redundancy!
+One report. One source of truth.
+Multiple roles — each seeing only what they should.
+No duplicated reports, no redundancy, no confusion.
 
 ![Row Level Security](https://github.com/GH-AkshyM/Revenue-Health-Dashboard/blob/main/Screenshots/Row%20Level%20Security.gif)
 ## 🚀Future scope of the Dashboard
