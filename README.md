@@ -64,7 +64,8 @@ Displays revenue expected This Year, Next 3 Months, and Current Month.
 ### 3. Monthly Revenue Trend (Recognized vs Projected)
 A Dynamic bar chart showing month-wise revenue for the current financial year, including both recognized and projected, which changes relative to the current month!
 
-![Guage Chart](https://github.com/GH-AkshyM/Revenue-Health-Dashboard/blob/main/Screenshots/Dashboard%20Overview.png)
+![Guage Chart](https://github.com/GH-AkshyM/Revenue-Health-Dashboard/blob/main/Screenshots/Dashboard%20Overview%20-%20Gif.gif)
+
 ## 🚀Future scope of the Dashboard
 
 
