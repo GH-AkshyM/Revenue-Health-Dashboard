@@ -1,10 +1,10 @@
 # Revenue Health Dashboard
 ## ↪️Project background:
 This project was inspired from my previous role as an Associate consultant. During that time me and my manager used to work together to present a **monthly** report to Leadership containing details about upcoming revenue. 
-It used to take us weeks to prepare the excel files, cross checking with other department heads about missing data, formatting, cross checking etc. The whole process was entirely manual. Ofcourse at that time, I was not aware about Powerbi. When
+It used to take us weeks to prepare the excel files, cross checking with other department heads about missing data, formatting etc. The whole process was entirely manual. Ofcourse at that time, I was not aware about Power BI. When
 I started learning this tool, I made up my mind that this would be my first project!
 
-*<h4>Disclaimer: The dataset used in this project is generated synthetically to mimic an IT solutions company. Which have several on going projects, Upcoming projects in the pipeline. Revenue recognition accross different months according to variying SOW's. Please give credit if you're going to reuse the dataset. Thanks in advance! I Appreciate you stopping by here!!</h4>*
+*<h4>Disclaimer: The dataset used in this project is generated synthetically to mimic an IT solutions company. Which have several on going projects, upcoming projects in the pipeline. Revenue recognition across different months according to varying SOW's. Please give credit if you're going to reuse the dataset. Thanks in advance! I Appreciate you stopping by here!!</h4>*
 
 ## 📚Table of Contents:
 
@@ -26,7 +26,7 @@ Despite the company’s expanding footprint, all revenue tracking, consolidation
 - preparing financial summaries for leadership
 
 This approach worked only because a single, experienced founder maintained complete visibility and control over the financial data.
-However, with this key individual recently exiting the company to pursue a new opportunity, Deltagrab now faces a critical challenge:
+**However, with this key individual recently exiting the company to pursue a new opportunity**, Deltagrab now faces a critical challenge:
 There is no centralized, automated, or scalable system to track revenue across countries, business units, and service categories.
 This has resulted in:
 - fragmented data scattered across emails, spreadsheets, and internal systems
@@ -36,13 +36,13 @@ This has resulted in:
 - difficulty forecasting trends or assessing performance
 - inability to take quick, data-driven decisions
 
-To ensure business continuity and long-term stability, Deltagrab urgently needs a centralized, automated revenue analytics solution that provides complete visibility of the company’s financial performance — regardless of personnel changes.
+**To ensure business continuity and long-term stability, Deltagrab urgently needs a centralized, automated revenue analytics solution that provides complete visibility of the company’s financial performance — regardless of personnel changes.**
 
 [(Back to top)](#table-of-contents)
 
 ## 🏢Existing Environment
 Deltagrab’s revenue reporting environment is entirely manual and heavily dependent on scattered data practices. Revenue information from different countries, service lines, and products is collected through spreadsheets, emails, and ad-hoc exports from internal systems. There is no centralized platform to unify or validate these numbers.
-A small team within the Business Solutions division is currently responsible for compiling monthly revenue reports. Due to the lack of automation, they spend significant time:
+**A small team within the Business Solutions division is currently responsible for compiling monthly revenue reports**. Due to the lack of automation, they spend significant time:
 - extracting financial data from various systems
 - merging spreadsheets from multiple departments
 - manually cleaning inconsistencies
@@ -60,7 +60,7 @@ Key Points:
 - Centralized internal database for all revenue data
 - Power BI connection to the new system
 - One consolidated leadership report
-- RLS: regional heads limited, CEO full access
+- **RLS: regional heads limited, CEO full access**
 - Pilot testing using current Excel sheets
   
 [(Back to top)](#table-of-contents)
@@ -83,18 +83,18 @@ A Dynamic column chart showing the revenue split across each chapters. Selecting
 A pie chart showing the contribution of Revenue from each commercial models.
 
 ### 3. A dedicated Forecast button:
-By clicking this button the end user can easily switch to the forecasting view where a complete breakdown of Revenue between each projects with respect to Prev, Current, Next and Month after Next! The leadership can quickly identify the Drop or increase in revenue and prepare proactively! One key use case is when the Leadership can have an AHM with the project managers and Get their input as to why there is drop in revenue. 
+By clicking this button the end user can easily switch to the forecasting view where a complete breakdown of Revenue between each projects with respect to Prev, Current, Next and Month after Next! The leadership can quickly identify the Drop or increase in revenue and prepare proactively! One key use-case is when the Leadership can have an AHM with the project managers and get their input as to why there is drop/increase in revenue. 
 
-- From the input of PM's the leadership can identify the root cause of the drop/increase in revenue. It might be due to An employee being de allocated or According the SOW there is no revenue being recognized for the particular month or If the project hasnt been renewed etc...
+- From the input of PM's the leadership can identify the root cause of the drop/increase in revenue. It might be due to An employee being de-allocated or according the SOW there is no revenue being recognized for the particular month or if the project hasnt been renewed etc...
 
 ![Forecast View](https://github.com/GH-AkshyM/Revenue-Health-Dashboard/blob/main/Screenshots/Forecast%20View.gif)
 
 ### 1. Matrix View:
 A matrix table visual showing the top 10 biggest clients as per revenue.
 ### 2. Classic Bar chart:
-For visualizing the revenue between all the financial years. Key Highlight, Dynamic titles (using parameters).
+For visualizing the revenue between all the financial years. Key Highlight: Dynamic titles (using parameters).
 ### 3. Decomposition Tree:
-For quick ADHOC exploration into the projects of each regions. With an addition drill through button which quickly takes the user into a dedicated page to get a comprehensive view about all the project details.
+For ad hoc exploration into the projects of each regions. With an addition drill through button which quickly takes the user into a dedicated page to get a comprehensive view about all the project details.
 
 
 ![Detail View](https://github.com/GH-AkshyM/Revenue-Health-Dashboard/blob/main/Screenshots/Detail%20View.gif)
