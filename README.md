@@ -136,3 +136,11 @@ Connecting revenue with operational expenses will allow Leadership to finally se
 Additional RLS-driven pages can be created for Finance, Delivery, HR, or Sales, giving each team a version of the dashboard that fits their needs.
 
 [(Back to top)](#table-of-contents)
+
+## You can explore the report [here](https://github.com/GH-AkshyM/HR-Attrition-Analytics-Dashboard/blob/main/PBIX%20File/HR%20attrition%20Report%20with%20Dataflow%20Gen2.pbix). Download and open using Power BI Desktop. 
+
+
+## Check out some of my other works: 
+- 🧠 **[HR Attrition Analytics with Dataflow Gen2](https://github.com/GH-AkshyM/Hr-Attrition-Analytics-Dashboard)** – A Clean Minimalistic look into Attrition Analytics with Insights Hard-coded.  
+- 📈 **[Sentiment Analysis Using BERT](https://github.com/GH-AkshyM/Sentiment-Analysis-using-BERT)** – Using SQL and Python pre-trained models for analysing customer reviews.
+- 🔄 **[E-commerce Cohort Analytics Dashboard with Lakehouse on MS Fabric](https://github.com/GH-AkshyM/Cohort-Analytics-Dashboard-with-Lakehouse-on-MS-Fabric/tree/main)** – Cohort-based retention and revenue analytics using DirectQuery.  
