@@ -137,7 +137,7 @@ Additional RLS-driven pages can be created for Finance, Delivery, HR, or Sales, 
 
 [(Back to top)](#table-of-contents)
 
-## You can explore the report [here](https://github.com/GH-AkshyM/HR-Attrition-Analytics-Dashboard/blob/main/PBIX%20File/HR%20attrition%20Report%20with%20Dataflow%20Gen2.pbix). Download and open using Power BI Desktop. 
+## You can explore the report [here](https://github.com/GH-AkshyM/Revenue-Health-Dashboard/blob/main/PBIX%20file/Revenue%20Health%20Dashboard.pbix). Download and open using Power BI Desktop. 
 
 
 ## Check out some of my other works: 
