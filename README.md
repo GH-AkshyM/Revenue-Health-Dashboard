@@ -4,7 +4,9 @@ This project was inspired from my previous role as an Associate consultant. Duri
 It used to take us weeks to prepare the excel files, cross checking with other department heads about missing data, formatting etc. The whole process was entirely manual. Ofcourse at that time, I was not aware about Power BI. When
 I started learning this tool, I made up my mind that this would be my first project!
 
-*<h4>Disclaimer: The dataset used in this project is generated synthetically to mimic an IT solutions company. Which have several on going projects, upcoming projects in the pipeline. Revenue recognition across different months according to varying SOW's. Please give credit if you're going to reuse the dataset. Thanks in advance! I appreciate you stopping by here!!</h4>*
+*<h4>Disclaimer: The dataset used in this project is fully anonymized and synthetically transformed.
+All identifiers, dates, and financial values were altered or randomized to ensure no real organizational data is exposed.
+The project only simulates real business scenarios. Thanks in advance! I appreciate you stopping by here!!</h4>*
 
 ## 📚Table of Contents:
 
