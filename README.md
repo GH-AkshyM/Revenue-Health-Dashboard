@@ -70,22 +70,22 @@ Key Points:
 
 ## ✨Highlight Features
 
-### 1. Guage Chart:
+### Guage Chart:
 Shows how much of the FY revenue target has been achieved vs. the goal set by the Leadership.
-### 2. Projections Summary Cards:
+### Projections Summary Cards:
 Displays revenue expected This Year, Next 3 Months, and Current Month.
-### 3. Monthly Revenue Trend (Recognized vs Projected):
+### Monthly Revenue Trend (Recognized vs Projected):
 A Dynamic bar chart showing month-wise revenue for the current financial year, including both recognized and projected, which changes relative to the current month!
 
-![Overview](https://github.com/GH-AkshyM/Revenue-Health-Dashboard/blob/main/Screenshots/Dashboard%20Overview%20-%20Gif.gif)
+![Overview](https://github.com/GH-AkshyM/Revenue-Health-Dashboard/blob/main/Screenshots/Dashboard%20Overview.gif)
 
-### 1. Dynamic Column Chart:
+### Dynamic Column Chart:
 A Dynamic column chart showing the revenue split across each chapters. Selecting a country slicer quickly shows the respective revenue breakdown!
 
-### 2. A pie chart:
+### A pie chart:
 A pie chart showing the contribution of Revenue from each commercial models.
 
-### 3. A dedicated Forecast button:
+### A dedicated Forecast button:
 By clicking this button the end user can easily switch to the forecasting view where a complete breakdown of Revenue between each projects with respect to Prev, Current, Next and Month after Next! The leadership can quickly identify the Drop or increase in revenue and prepare proactively! One key use-case is when the Leadership can have an AHM with the project managers and get their input as to why there is drop/increase in revenue. 
 
 - From the input of PM's the leadership can identify the root cause of the drop/increase in revenue. It might be due to An employee being de-allocated or according the SOW there is no revenue being recognized for the particular month or if the project hasnt been renewed etc...
@@ -140,7 +140,7 @@ Additional RLS-driven pages can be created for Finance, Delivery, HR, or Sales, 
 
 [(Back to top)](#table-of-contents)
 
-## You can explore the report [here](https://github.com/GH-AkshyM/Revenue-Health-Dashboard/blob/main/PBIX%20file/Revenue%20Health%20Dashboard.pbix). Download and open using Power BI Desktop. 
+## You can explore the report [here](https://github.com/GH-AkshyM/Revenue-Health-Dashboard/blob/main/PBIX%20File/Revenue%20Health%20Dashboard.pbix). Download and open using Power BI Desktop. 
 
 
 ## Check out some of my other works: 
