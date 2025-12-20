@@ -1,8 +1,8 @@
 # Revenue Health Dashboard
 ## ↪️Project background:
-This project was inspired from my previous role as an Associate consultant. During that time me and my manager used to work together to present a **monthly** report to Leadership, containing details about upcoming revenue. 
-It used to take us weeks to prepare the excel files, cross checking with other department heads about missing data, formatting etc. The whole process was entirely manual. Ofcourse at that time, I was not aware about Power BI. When
-I started learning this tool, I made up my mind that this would be my first project!
+During my time as an Associate Consultant, I regularly worked on leadership revenue reports. Like in many organizations, the process involved multiple Excel files, manual consolidation, and coordination across teams.
+
+Learning Power BI made me realize how much of that work could be automated and made more reliable — so I decided to build the solution I wish we had back then.
 
 *<h4>Disclaimer: The dataset used in this project is fully anonymized and synthetically transformed.
 All identifiers, dates, and financial values were altered or randomized to ensure no real organizational data is exposed.
@@ -19,39 +19,40 @@ The project only simulates real business scenarios. Thanks in advance! I appreci
 |5.   |  [Future scope of the Dashboard](#future-scope-of-the-dashboard)                              |
 
 ## 📌Business Problem
-Deltagrab is a fast-growing IT solutions company with operations across multiple countries and a workforce exceeding 400 employees. Its service portfolio ranges from HR & payroll automation to SaaS-based products and enterprise-grade cloud hosting solutions.
-Despite the company’s expanding footprint, all revenue tracking, consolidation, and reporting were handled manually by one of the founding members. This included:
-- managing revenue streams across different service lines
-- monitoring country-wise performance
-- reconciling recurring SaaS subscriptions
-- tracking cloud service usage and billing cycles
-- preparing financial summaries for leadership
+Deltagrab is a fast-growing IT solutions company with operations across multiple countries and a workforce of over 400 employees. Its portfolio includes HR & payroll automation, SaaS products, and enterprise-grade cloud hosting services.
 
-This approach worked only because a single, experienced founder maintained complete visibility and control over the financial data.
-**However, with this key individual recently exiting the company to pursue a new opportunity**, Deltagrab now faces a critical challenge:
-There is no centralized, automated, or scalable system to track revenue across countries, business units, and service categories.
-This has resulted in:
-- fragmented data scattered across emails, spreadsheets, and internal systems
-- delays in monthly revenue reporting
-- no single version of truth for leadership
-- risk of miscalculations or missed revenue
-- difficulty forecasting trends or assessing performance
-- inability to take quick, data-driven decisions
+Like many rapidly growing organizations, revenue reporting evolved organically over time. Leadership relied on spreadsheets, manual consolidation, and team knowledge to track performance across countries, service lines, and subscription models. This approach worked effectively for several years because it provided flexibility and familiarity to the people managing it.
 
-**To ensure business continuity and long-term stability, Deltagrab urgently needs a centralized, automated revenue analytics solution that provides complete visibility of the company’s financial performance — regardless of personnel changes.**
+However, as the company continued to scale and key responsibilities began transitioning across roles, the need for a centralized, automated revenue analytics system became clear. Without a unified platform, the team faced:
+
+- fragmented data across different files and sources
+
+- delays in preparing consolidated monthly reports
+
+- challenges in maintaining a single, trusted version of revenue numbers
+
+- difficulty forecasting trends proactively
+
+- slower decision-making due to limited real-time visibility
+
+**To support continued growth and ensure business continuity, Deltagrab required a modern, automated revenue dashboard that could provide leadership with reliable, timely financial insights.**
 
 [(Back to top)](#table-of-contents)
 
 ## 🏢Existing Environment
-Deltagrab’s revenue reporting environment is entirely manual and heavily dependent on scattered data practices. Revenue information from different countries, service lines, and products is collected through spreadsheets, emails, and ad-hoc exports from internal systems. There is no centralized platform to unify or validate these numbers.
-**A small team within the Business Solutions division is currently responsible for compiling monthly revenue reports**. Due to the lack of automation, they spend significant time:
-- extracting financial data from various systems
-- merging spreadsheets from multiple departments
-- manually cleaning inconsistencies
-- resolving missing or duplicated entries
-- reconciling numbers across countries and business units
+Deltagrab’s revenue reporting process was built gradually as the company expanded, relying primarily on spreadsheets, internal files, and cross-team coordination. Revenue data from different regions, business units, and subscription models was collected and consolidated manually.
 
-Because the reporting is built on manual processes and individual knowledge, Deltagrab’s leadership lacks reliable, timely visibility into overall performance — making strategic decisions slower and riskier.
+A dedicated team within the Business Solutions division managed this process efficiently, but as reporting needs grew, the workload increased significantly. Much of the effort went into:
+
+- gathering financial inputs from multiple sources
+
+- standardizing formats
+
+- resolving inconsistencies
+
+- consolidating figures across countries and service lines
+
+While the process worked, it required considerable effort and time each month. Moving toward an automated, governed Power BI solution offered the opportunity to reduce repetitive work, improve accuracy, and give leadership real-time visibility—without relying heavily on manual effort.
 
 [(Back to top)](#table-of-contents)
 
