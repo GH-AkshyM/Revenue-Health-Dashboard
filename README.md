@@ -92,11 +92,11 @@ By clicking this button the end user can easily switch to the forecasting view w
 
 ![Forecast View](https://github.com/GH-AkshyM/Revenue-Health-Dashboard/blob/main/Screenshots/Forecast%20View.gif)
 
-### 1. Matrix View:
-A matrix table visual showing the top 10 biggest clients as per revenue.
-### 2. Classic Bar chart:
+### Matrix View:
+A matrix table visual showing the biggest clients as per revenue.
+### Classic Bar chart:
 For visualizing the revenue between all the financial years. Key Highlight: Dynamic titles (using parameters).
-### 3. Decomposition Tree:
+### Decomposition Tree:
 For ad hoc exploration into the projects of each regions. With an addition drill through button which quickly takes the user into a dedicated page to get a comprehensive view about all the project details.
 
 
