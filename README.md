@@ -1,8 +1,8 @@
 # Revenue Health Dashboard
 ## ↪️Project background:
-During my time as an Associate Consultant, I regularly worked on leadership revenue reports. Like in many organizations, the process involved multiple Excel files, manual consolidation, and coordination across teams.
+During my time as an Associate Consultant, I regularly worked on leadership revenue reports, which meant dealing with multiple Excel files, manual consolidation, and constant coordination with different teams.
 
-Learning Power BI made me realize how much of that work could be automated and made more reliable — so I decided to build the solution I wish we had back then.
+Once I started learning Power BI, it completely changed my perspective. I saw how automation, data modeling, and governed reporting could transform that experience — not just by saving time, but by improving accuracy, visibility, and decision-making. That realization is what led me to build this dashboard.
 
 *<h4>Disclaimer: The dataset used in this project is fully anonymized and synthetically transformed.
 All identifiers, dates, and financial values were altered or randomized to ensure no real organizational data is exposed.
